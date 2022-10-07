@@ -1,0 +1,47 @@
+sudo su - postgres
+
+
+
+psql
+
+
+
+
+
+pg_lsclusters
+
+
+
+ps -ef | grep 13/
+
+
+
+/var/lib/postgresql/13/main
+
+
+
+nano- edita archivos (Bin)
+
+
+
+systemcyl restart;
+
+
+
+show shared_buffers;
+
+show max_connections;
+
+
+
+show work_mem;
+
+set work_mem = '1GB';
+
+
+
+show temp_file_limit;
+
+
+
+///////////////////
