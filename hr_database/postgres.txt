@@ -24,7 +24,7 @@ nano- edita archivos (Bin)
 
 
 
-systemcyl restart;
+systemctl restart;
 
 
 
